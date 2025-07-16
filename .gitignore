@@ -3,8 +3,6 @@ node_modules/
 .env
 *.log
 .DS_Store
-*.pptx
-*.md
 # VSCode
 .vscode/
 # OS
